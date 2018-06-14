@@ -28,7 +28,6 @@ public class Main {
 
 
 
-
         int count=0;
         System.out.println(isPrime(7));
         for(int i=1;i<=100;i++) {
